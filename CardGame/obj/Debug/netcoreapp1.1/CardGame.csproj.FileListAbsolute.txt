@@ -1,0 +1,11 @@
+C:\Users\rsvasilijevp\Documents\Visual Studio 2017\Projects\CardGameSol\CardGame\bin\Debug\netcoreapp1.1\CardGame.deps.json
+C:\Users\rsvasilijevp\Documents\Visual Studio 2017\Projects\CardGameSol\CardGame\bin\Debug\netcoreapp1.1\CardGame.runtimeconfig.json
+C:\Users\rsvasilijevp\Documents\Visual Studio 2017\Projects\CardGameSol\CardGame\bin\Debug\netcoreapp1.1\CardGame.runtimeconfig.dev.json
+C:\Users\rsvasilijevp\Documents\Visual Studio 2017\Projects\CardGameSol\CardGame\bin\Debug\netcoreapp1.1\CardGame.dll
+C:\Users\rsvasilijevp\Documents\Visual Studio 2017\Projects\CardGameSol\CardGame\bin\Debug\netcoreapp1.1\CardGame.pdb
+C:\Users\rsvasilijevp\Documents\Visual Studio 2017\Projects\CardGameSol\CardGame\obj\Debug\netcoreapp1.1\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\rsvasilijevp\Documents\Visual Studio 2017\Projects\CardGameSol\CardGame\obj\Debug\netcoreapp1.1\CardGame.AssemblyInfoInputs.cache
+C:\Users\rsvasilijevp\Documents\Visual Studio 2017\Projects\CardGameSol\CardGame\obj\Debug\netcoreapp1.1\CardGame.AssemblyInfo.cs
+C:\Users\rsvasilijevp\Documents\Visual Studio 2017\Projects\CardGameSol\CardGame\obj\Debug\netcoreapp1.1\CardGame.dll
+C:\Users\rsvasilijevp\Documents\Visual Studio 2017\Projects\CardGameSol\CardGame\obj\Debug\netcoreapp1.1\CardGame.pdb
+C:\Users\rsvasilijevp\Documents\Visual Studio 2017\Projects\CardGameSol\CardGame\obj\Debug\netcoreapp1.1\CardGame.csprojAssemblyReference.cache
